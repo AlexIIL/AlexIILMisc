@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alexiilmisc",
+  "name": "AlexIIL Misc Additions",
+  "description": "Random additions that I though vanilla needed - non gamechanging",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlexIIL"],
+  "credits": "The Forge and FML guys, for making THE AMAZING THAT IS FORGE OMFG YOU ARE AMAZING I LOVE YOU LEX",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
